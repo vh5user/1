@@ -1,0 +1,31 @@
+sudo pacman -Syu --needed \
+gnome \
+gnome-extra \
+gdm \
+gnome-terminal \
+networkmanager \
+network-manager-applet \
+pipewire \
+pipewire-alsa \
+pipewire-pulse \
+wireplumber \
+pavucontrol \
+bluez \
+bluez-utils \
+nvidia \
+nvidia-utils \
+nvidia-settings \
+egl-wayland \
+xorg-xwayland \
+xdg-desktop-portal \
+xdg-desktop-portal-gnome \
+noto-fonts \
+noto-fonts-cyrillic \
+noto-fonts-emoji \
+ttf-dejavu \
+ttf-liberation \
+firefox \
+nano \
+git \
+unzip \
+p7zip
